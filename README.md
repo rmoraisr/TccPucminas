@@ -11,7 +11,7 @@ especialista.
 
 ## Opção para execução dos Jupyter Notebooks
 
-Opção experimental que dispensa fazer qualquer instalação na máquina local.
+Opção experimental que dispensa fazer qualquer instalação na máquina local, pode ser executada a partir do repositório [Binder](https://mybinder.org/v2/gh/rmoraisr/TccPucminas/HEAD).
 
 Na primeira execução tirar os comentários e executar os comandos da prmeira célula reproduzida a seguir:
 
