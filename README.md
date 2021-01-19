@@ -24,12 +24,5 @@ Na primeira execução tirar os comentários e executar os comandos da prmeira c
 !pip install lime
 !pip install seaborn
 !pip install matplotlib_venn
-```
-
-É recomendável ainda, incluir o código a seguir no ínicio do jupyter notebook. Esse código impede de ser impresso os avisos de versão entre outros. São avisos que não interferem na execução do código.
-
-```python
-import warnings
-warnings.filterwarnings("ignore")
-```
+``
 
